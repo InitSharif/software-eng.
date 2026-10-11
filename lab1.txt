@@ -1,3 +1,3 @@
-lab 1 - 24-56418-1updated line
+lab 1 - 24-56418-1
 i cann write anything and push it to specific file like this
 just have to use some special keys on git bash
